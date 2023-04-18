@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 MAINTAINER Glenn ten Cate <glenn.ten.cate@owasp.org>
 
 #Install dependencies
