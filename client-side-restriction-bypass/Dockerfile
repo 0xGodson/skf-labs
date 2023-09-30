@@ -1,6 +1,6 @@
 ### Static layers
 
-FROM alpine:3.7 AS skf-alpine37
+FROM alpine:3.18.4 AS skf-alpine37
 LABEL Alberto Rafael Rodríguez Iglesias <albertocysec@gmail.com / alberto.iglesias@owasp.org>
 
 # Installing needed binaries and deps. Then removing unneeded deps:
