@@ -3,3 +3,4 @@ flask-cors==3.0.7
 requests==2.19.1
 datetime
 Werkzeug==0.14.1
+urllib3>=1.26.17 # not directly required, pinned by Snyk to avoid a vulnerability
