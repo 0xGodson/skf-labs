@@ -1,3 +1,4 @@
 Flask==0.10.1
 flask-cors==3.0.7
 requests==2.19.1
+urllib3>=1.26.17 # not directly required, pinned by Snyk to avoid a vulnerability
