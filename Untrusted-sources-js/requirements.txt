@@ -1,3 +1,4 @@
 Flask==0.10.1
 requests==2.19.1
 Werkzeug==0.14.1
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
