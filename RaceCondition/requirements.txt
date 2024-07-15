@@ -3,3 +3,4 @@ flask-cors==3.0.7
 requests==2.19.1
 datetime
 Werkzeug==0.14.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
