@@ -5,3 +5,5 @@ flask-sqlalchemy
 graphene 
 graphene-sqlalchemy
 flask_httpauth
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
